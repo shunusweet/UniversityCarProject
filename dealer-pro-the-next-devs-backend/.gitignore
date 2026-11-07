@@ -36,6 +36,9 @@ lerna-debug.log*
 *.njsproj
 *.sln
 *.sw?
+**/src/secrets/*.p12
+**/src/secrets/*.pem
+**/src/secrets/*.key
 
 # Operating system
 Thumbs.db
