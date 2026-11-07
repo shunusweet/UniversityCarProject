@@ -1,0 +1,5 @@
+{
+  "watch": ["src"],
+  "ignore": ["src/exported"],
+  "ext": "js,json"
+}

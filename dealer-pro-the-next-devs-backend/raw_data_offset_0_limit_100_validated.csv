@@ -1,0 +1,101 @@
+company_id,person_name,website,email_1,status_1,email_2,status_2,email_3,status_3
+5565072658,Dagmar Elisabeth Brisell,https://overmolager.se,dagmar.brisell@overmolager.se,Invalid,d.brisell@overmolager.se,Invalid,dagmarb@overmolager.se,Invalid
+5565072658,Carl Johan Samuel Brisell,https://overmolager.se,carl.brisell@overmolager.se,Invalid,c.brisell@overmolager.se,Invalid,carlb@overmolager.se,Invalid
+5565072658,Magdalena Elisabeth Brisell Haglund,https://overmolager.se,magdalena.haglund@overmolager.se,Invalid,m.haglund@overmolager.se,Invalid,magdalenah@overmolager.se,Invalid
+5565072658,Fräs Carl Göran Brisell,https://overmolager.se,fräs.brisell@overmolager.se,Invalid,f.brisell@overmolager.se,Invalid,fräsb@overmolager.se,Invalid
+5565072658,Lars Kristian Haglund,https://overmolager.se,lars.haglund@overmolager.se,Invalid,l.haglund@overmolager.se,Invalid,larsh@overmolager.se,Invalid
+5565072658,Charlotta Katarina Brisell,https://overmolager.se,charlotta.brisell@overmolager.se,Invalid,c.brisell@overmolager.se,Invalid,charlottab@overmolager.se,Invalid
+5592081474,Lars Peter Emilsson,https://ovdalskuol.se,lars.emilsson@ovdalskuol.se,Invalid,l.emilsson@ovdalskuol.se,Invalid,larse@ovdalskuol.se,Invalid
+5592081474,Olov Jörgen Schröder,https://ovdalskuol.se,olov.schröder@ovdalskuol.se,Invalid,o.schröder@ovdalskuol.se,Invalid,olovs@ovdalskuol.se,Invalid
+5592081474,Ingrid Annette Smith Emilsson,https://ovdalskuol.se,ingrid.emilsson@ovdalskuol.se,Invalid,i.emilsson@ovdalskuol.se,Invalid,ingride@ovdalskuol.se,Invalid
+5592081474,Nina Anna Kristina Schröder,https://ovdalskuol.se,nina.schröder@ovdalskuol.se,Invalid,n.schröder@ovdalskuol.se,Invalid,ninas@ovdalskuol.se,Invalid
+5569762312,Per Fredrik Östlin,https://www.ostlinsmaleri.se,per.östlin@ostlinsmaleri.se,Invalid,p.östlin@ostlinsmaleri.se,Invalid,perö@ostlinsmaleri.se,Invalid
+5569762312,Johan Stens,https://www.ostlinsmaleri.se,johan.stens@ostlinsmaleri.se,Invalid,j.stens@ostlinsmaleri.se,Invalid,johans@ostlinsmaleri.se,Invalid
+5569762312,Thomas Daniel Andersson,https://www.ostlinsmaleri.se,thomas.andersson@ostlinsmaleri.se,Invalid,t.andersson@ostlinsmaleri.se,Invalid,thomasa@ostlinsmaleri.se,Invalid
+5569762312,Emma Kristina Hed,https://www.ostlinsmaleri.se,emma.hed@ostlinsmaleri.se,Invalid,e.hed@ostlinsmaleri.se,Invalid,emmah@ostlinsmaleri.se,Invalid
+5564740164,Allan Salåker,https://osterling-bygg.se,allan.salåker@osterling-bygg.se,Invalid,a.salåker@osterling-bygg.se,Invalid,allans@osterling-bygg.se,Invalid
+5564740164,Daniel Johan Nikodemus Rönnberg,https://osterling-bygg.se,daniel.rönnberg@osterling-bygg.se,Invalid,d.rönnberg@osterling-bygg.se,Invalid,danielr@osterling-bygg.se,Invalid
+5569249724,Conny Magnus Persson,https://olsvets.se,conny.persson@olsvets.se,Invalid,c.persson@olsvets.se,Invalid,connyp@olsvets.se,Invalid
+5569249724,Kent Mikael Persson,https://olsvets.se,kent.persson@olsvets.se,Invalid,k.persson@olsvets.se,Invalid,kentp@olsvets.se,Invalid
+5569249724,Johan Bengt Oscar Nordström,https://olsvets.se,johan.nordström@olsvets.se,Invalid,j.nordström@olsvets.se,Invalid,johann@olsvets.se,Invalid
+5567931851,Bengt Erik Östensson,https://ostenssonentreprenad.se,bengt.östensson@ostenssonentreprenad.se,Invalid,b.östensson@ostenssonentreprenad.se,Invalid,bengtö@ostenssonentreprenad.se,Invalid
+5567931851,Bengt Andreas Östensson,https://ostenssonentreprenad.se,bengt.östensson@ostenssonentreprenad.se,Invalid,b.östensson@ostenssonentreprenad.se,Invalid,bengtö@ostenssonentreprenad.se,Invalid
+5567931851,Björn Christoffer Östensson,https://ostenssonentreprenad.se,björn.östensson@ostenssonentreprenad.se,Invalid,b.östensson@ostenssonentreprenad.se,Invalid,björnö@ostenssonentreprenad.se,Invalid
+5561536938,Nils Erik Peter Berg,https://www.wikersplat.se,nils.berg@wikersplat.se,Invalid,n.berg@wikersplat.se,Invalid,nilsb@wikersplat.se,Invalid
+5561536938,Erik Jens Fagerheim,https://www.wikersplat.se,erik.fagerheim@wikersplat.se,Invalid,e.fagerheim@wikersplat.se,Invalid,erikf@wikersplat.se,Invalid
+5561536938,Solveig Marianne Pettersson,https://www.wikersplat.se,solveig.pettersson@wikersplat.se,Invalid,s.pettersson@wikersplat.se,Invalid,solveigp@wikersplat.se,Invalid
+5561536938,Ulf Marcus Persson,https://www.wikersplat.se,ulf.persson@wikersplat.se,Invalid,u.persson@wikersplat.se,Invalid,ulfp@wikersplat.se,Invalid
+5562176114,Ulla-Britta Malmqvist,https://www.ostbergsmobelhus.com,ulla-britta.malmqvist@ostbergsmobelhus.com,Invalid,u.malmqvist@ostbergsmobelhus.com,Invalid,ulla-brittam@ostbergsmobelhus.com,Invalid
+5562176114,Eva Maria Katarina Malmqvist,https://www.ostbergsmobelhus.com,eva.malmqvist@ostbergsmobelhus.com,Invalid,e.malmqvist@ostbergsmobelhus.com,Invalid,evam@ostbergsmobelhus.com,Invalid
+5562176114,Anders Valdemar Malmqvist,https://www.ostbergsmobelhus.com,anders.malmqvist@ostbergsmobelhus.com,Invalid,a.malmqvist@ostbergsmobelhus.com,Invalid,andersm@ostbergsmobelhus.com,Invalid
+5560432691,Lars Mikael Christensson,https://se.ostberg.com,lars.christensson@se.ostberg.com,Invalid,l.christensson@se.ostberg.com,Invalid,larsc@se.ostberg.com,Invalid
+5560432691,Ulf Peter Niclas Jakobsson,https://se.ostberg.com,ulf.jakobsson@se.ostberg.com,Invalid,u.jakobsson@se.ostberg.com,Invalid,ulfj@se.ostberg.com,Invalid
+5560432691,Mikael Östberg,https://se.ostberg.com,mikael.östberg@se.ostberg.com,Invalid,m.östberg@se.ostberg.com,Invalid,mikaelö@se.ostberg.com,Invalid
+5560432691,Hans Olov Östberg,https://se.ostberg.com,hans.östberg@se.ostberg.com,Invalid,h.östberg@se.ostberg.com,Invalid,hansö@se.ostberg.com,Invalid
+5560432691,Johan-Fredrik Östberg,https://se.ostberg.com,johan-fredrik.östberg@se.ostberg.com,Invalid,j.östberg@se.ostberg.com,Invalid,johan-fredrikö@se.ostberg.com,Invalid
+5560432691,Pär Anders Norling,https://se.ostberg.com,pär.norling@se.ostberg.com,Invalid,p.norling@se.ostberg.com,Invalid,pärn@se.ostberg.com,Invalid
+5560432691,Cornelia Maria Annika M Karlsson,https://se.ostberg.com,cornelia.karlsson@se.ostberg.com,Invalid,c.karlsson@se.ostberg.com,Invalid,corneliak@se.ostberg.com,Invalid
+5560432691,Annette Maria Samils,https://se.ostberg.com,annette.samils@se.ostberg.com,Invalid,a.samils@se.ostberg.com,Invalid,annettes@se.ostberg.com,Invalid
+5560432691,Emil Ivar Mattias Forsling,https://se.ostberg.com,emil.forsling@se.ostberg.com,Invalid,e.forsling@se.ostberg.com,Invalid,emilf@se.ostberg.com,Invalid
+5590755459,Johan Axel Östberg,https://www.ostbergadvokater.se,johan.östberg@ostbergadvokater.se,Invalid,j.östberg@ostbergadvokater.se,Invalid,johanö@ostbergadvokater.se,Invalid
+5590755459,Jenny Maria Arnberg,https://www.ostbergadvokater.se,jenny.arnberg@ostbergadvokater.se,Invalid,j.arnberg@ostbergadvokater.se,Invalid,jennya@ostbergadvokater.se,Invalid
+5590755459,Hans Ingemar Markus Ström,https://www.ostbergadvokater.se,hans.ström@ostbergadvokater.se,Invalid,h.ström@ostbergadvokater.se,Invalid,hanss@ostbergadvokater.se,Invalid
+5560469461,Claes Joachim Persson,https://www.ica.se,claes.persson@ica.se,Invalid,c.persson@ica.se,Invalid,claesp@ica.se,Invalid
+5560469461,Anders Roland Janers,https://www.ica.se,anders.janers@ica.se,Invalid,a.janers@ica.se,Invalid,andersj@ica.se,Invalid
+5560469461,Carl Magnus Hallberg,https://www.ica.se,carl.hallberg@ica.se,Invalid,c.hallberg@ica.se,Invalid,carlh@ica.se,Invalid
+5566608500,Ulf Vilhelm Swärdh,https://www.orlogsstaden.se,ulf.swärdh@orlogsstaden.se,Invalid,u.swärdh@orlogsstaden.se,Invalid,ulfs@orlogsstaden.se,Invalid
+5566608500,Jan Olov Liljedahl,https://www.orlogsstaden.se,jan.liljedahl@orlogsstaden.se,Invalid,j.liljedahl@orlogsstaden.se,Invalid,janl@orlogsstaden.se,Invalid
+5566608500,Mats Johan Ivar Wiheden,https://www.orlogsstaden.se,mats.wiheden@orlogsstaden.se,Invalid,m.wiheden@orlogsstaden.se,Invalid,matsw@orlogsstaden.se,Invalid
+5564818473,Bengt Ivar Olof Larsson,https://www.oresundsporten.se,bengt.larsson@oresundsporten.se,Invalid,b.larsson@oresundsporten.se,Invalid,bengtl@oresundsporten.se,Invalid
+5564818473,Karin Mona Ingegärd Larsson,https://www.oresundsporten.se,karin.larsson@oresundsporten.se,Invalid,k.larsson@oresundsporten.se,Invalid,karinl@oresundsporten.se,Invalid
+5590454467,Catarina Marianne Göthberg,https://örebrobilbärgning.se,catarina.göthberg@örebrobilbärgning.se,Invalid,c.göthberg@örebrobilbärgning.se,Invalid,catarinag@örebrobilbärgning.se,Invalid
+5590454467,Hans Mattias Haglund,https://örebrobilbärgning.se,hans.haglund@örebrobilbärgning.se,Invalid,h.haglund@örebrobilbärgning.se,Invalid,hansh@örebrobilbärgning.se,Invalid
+5590454467,Hans Viktor Benjamin Johansson,https://örebrobilbärgning.se,hans.johansson@örebrobilbärgning.se,Invalid,h.johansson@örebrobilbärgning.se,Invalid,hansj@örebrobilbärgning.se,Invalid
+5590454467,Markku Juhani Reinikainen,https://örebrobilbärgning.se,markku.reinikainen@örebrobilbärgning.se,Invalid,m.reinikainen@örebrobilbärgning.se,Invalid,markkur@örebrobilbärgning.se,Invalid
+5590454467,Rolf Nicklas Kullberg,https://örebrobilbärgning.se,rolf.kullberg@örebrobilbärgning.se,Invalid,r.kullberg@örebrobilbärgning.se,Invalid,rolfk@örebrobilbärgning.se,Invalid
+5563018067,Kristina Elisabet Kopsch,https://www.onska.se,kristina.kopsch@onska.se,Invalid,k.kopsch@onska.se,Invalid,kristinak@onska.se,Invalid
+5563018067,Laila Mariana Sjöfors,https://www.onska.se,laila.sjöfors@onska.se,Invalid,l.sjöfors@onska.se,Invalid,lailas@onska.se,Invalid
+5563018067,Carl Viktor Linus Sjögren,https://www.onska.se,carl.sjögren@onska.se,Invalid,c.sjögren@onska.se,Invalid,carls@onska.se,Invalid
+5563018067,Anna-Karin Elisabeth Wahlström Berg,https://www.onska.se,anna-karin.berg@onska.se,Invalid,a.berg@onska.se,Invalid,anna-karinb@onska.se,Invalid
+5563018067,Siv Anna-Lena Persson,https://www.onska.se,siv.persson@onska.se,Invalid,s.persson@onska.se,Invalid,sivp@onska.se,Invalid
+5563018067,Annie Kristina Byström,https://www.onska.se,annie.byström@onska.se,Invalid,a.byström@onska.se,Invalid,annieb@onska.se,Invalid
+5563018067,Carl Bertil Magnus Wiberg,https://www.onska.se,carl.wiberg@onska.se,Invalid,c.wiberg@onska.se,Invalid,carlw@onska.se,Invalid
+5566474705,Tur Björn Daniel Andersson,https://www.ojeprodukter.se,tur.andersson@ojeprodukter.se,Invalid,t.andersson@ojeprodukter.se,Invalid,tura@ojeprodukter.se,Invalid
+5566474705,Anna Maria Sjögren Andersson,https://www.ojeprodukter.se,anna.andersson@ojeprodukter.se,Invalid,a.andersson@ojeprodukter.se,Invalid,annaa@ojeprodukter.se,Invalid
+5566474705,Jonas Martin Dahlin,https://www.ojeprodukter.se,jonas.dahlin@ojeprodukter.se,Invalid,j.dahlin@ojeprodukter.se,Invalid,jonasd@ojeprodukter.se,Invalid
+5562583632,Karl Tomas Öhlund,https://www.ohlunds.se,karl.öhlund@ohlunds.se,Invalid,k.öhlund@ohlunds.se,Invalid,karlö@ohlunds.se,Invalid
+5562583632,Mari-Ann Öhlund,https://www.ohlunds.se,mari-ann.öhlund@ohlunds.se,Invalid,m.öhlund@ohlunds.se,Invalid,mari-annö@ohlunds.se,Invalid
+5591972186,Ola Anders Sandberg,https://obrygd.se,ola.sandberg@obrygd.se,Invalid,o.sandberg@obrygd.se,Invalid,olas@obrygd.se,Invalid
+5591972186,Erik Jörgen Sigvard Sandberg,https://obrygd.se,erik.sandberg@obrygd.se,Invalid,e.sandberg@obrygd.se,Invalid,eriks@obrygd.se,Invalid
+5566809306,Åsa Birgitta Lindgren Nordin,https://www.schyllahuset.se,åsa.nordin@schyllahuset.se,Invalid,å.nordin@schyllahuset.se,Invalid,åsan@schyllahuset.se,Invalid
+5566809306,Malin Anna Maria Lindström,https://www.schyllahuset.se,malin.lindström@schyllahuset.se,Invalid,m.lindström@schyllahuset.se,Invalid,malinl@schyllahuset.se,Invalid
+5566809306,Ellinor Louise Belin,https://www.schyllahuset.se,ellinor.belin@schyllahuset.se,Invalid,e.belin@schyllahuset.se,Invalid,ellinorb@schyllahuset.se,Invalid
+5566809306,Linda Helen Fredlund,https://www.schyllahuset.se,linda.fredlund@schyllahuset.se,Invalid,l.fredlund@schyllahuset.se,Invalid,lindaf@schyllahuset.se,Invalid
+5566809306,Sofia Isabella Marianne Nordin,https://www.schyllahuset.se,sofia.nordin@schyllahuset.se,Invalid,s.nordin@schyllahuset.se,Invalid,sofian@schyllahuset.se,Invalid
+5566809306,Linda Maria Elisabet Karlströms,https://www.schyllahuset.se,linda.karlströms@schyllahuset.se,Invalid,l.karlströms@schyllahuset.se,Invalid,lindak@schyllahuset.se,Invalid
+5566809306,Britt-Louise Murray Eriksson,https://www.schyllahuset.se,britt-louise.eriksson@schyllahuset.se,Invalid,b.eriksson@schyllahuset.se,Invalid,britt-louisee@schyllahuset.se,Invalid
+5566809306,Ingrid Eva Elisabeth Ringaby,https://www.schyllahuset.se,ingrid.ringaby@schyllahuset.se,Invalid,i.ringaby@schyllahuset.se,Invalid,ingridr@schyllahuset.se,Invalid
+5566809306,Lina Isabella Andersson,https://www.schyllahuset.se,lina.andersson@schyllahuset.se,Invalid,l.andersson@schyllahuset.se,Invalid,linaa@schyllahuset.se,Invalid
+5566809306,Anna Sofia Noomi Lederud,https://www.schyllahuset.se,anna.lederud@schyllahuset.se,Invalid,a.lederud@schyllahuset.se,Invalid,annal@schyllahuset.se,Invalid
+5566666177,Åsa Maria Theres Ljungqvist,https://www.asasbemanning.se,åsa.ljungqvist@asasbemanning.se,Invalid,å.ljungqvist@asasbemanning.se,Invalid,åsal@asasbemanning.se,Invalid
+5566666177,Lennart Mattias Eld,https://www.asasbemanning.se,lennart.eld@asasbemanning.se,Invalid,l.eld@asasbemanning.se,Invalid,lennarte@asasbemanning.se,Invalid
+5566666177,Marie Helén Gunnarsson,https://www.asasbemanning.se,marie.gunnarsson@asasbemanning.se,Invalid,m.gunnarsson@asasbemanning.se,Invalid,marieg@asasbemanning.se,Invalid
+5562834621,Åsa Elisabeth Åkerström Ahlin,https://asaakerstrom.com/kontakt.html,åsa.ahlin@asaakerstrom.com,Invalid,å.ahlin@asaakerstrom.com,Invalid,åsaa@asaakerstrom.com,Invalid
+5562834621,Lars Ivar Ahlin,https://asaakerstrom.com/kontakt.html,lars.ahlin@asaakerstrom.com,Invalid,l.ahlin@asaakerstrom.com,Invalid,larsa@asaakerstrom.com,Invalid
+5593984916,Linda Anna Maria Hansson,https://www.arstidensbasta.com,linda.hansson@arstidensbasta.com,Invalid,l.hansson@arstidensbasta.com,Invalid,lindah@arstidensbasta.com,Invalid
+5593984916,Rolf Andreas Hansson,https://www.arstidensbasta.com,rolf.hansson@arstidensbasta.com,Invalid,r.hansson@arstidensbasta.com,Invalid,rolfh@arstidensbasta.com,Invalid
+5565202339,Hans Olof Lund,https://operation.se,hans.lund@operation.se,Invalid,h.lund@operation.se,Invalid,hansl@operation.se,Invalid
+5565202339,Mats Evan Sonehag,https://operation.se,mats.sonehag@operation.se,Invalid,m.sonehag@operation.se,Invalid,matss@operation.se,Invalid
+5565202339,Tage Arne Skoglund,https://operation.se,tage.skoglund@operation.se,Invalid,t.skoglund@operation.se,Invalid,tages@operation.se,Invalid
+5565505434,Per-Ola Wincent Åkesson,https://bargningsbolaget.se,per-ola.åkesson@bargningsbolaget.se,Invalid,p.åkesson@bargningsbolaget.se,Invalid,per-olaå@bargningsbolaget.se,Invalid
+5565505434,Christina Madeleine Johansson,https://bargningsbolaget.se,christina.johansson@bargningsbolaget.se,Invalid,c.johansson@bargningsbolaget.se,Invalid,christinaj@bargningsbolaget.se,Invalid
+5565505434,Daniel Bjerny Holmberg,https://bargningsbolaget.se,daniel.holmberg@bargningsbolaget.se,Invalid,d.holmberg@bargningsbolaget.se,Invalid,danielh@bargningsbolaget.se,Invalid
+5561455857,Bernt Anders William Jansson,https://www.akessonsbilcenter.se,bernt.jansson@akessonsbilcenter.se,Invalid,b.jansson@akessonsbilcenter.se,Invalid,berntj@akessonsbilcenter.se,Invalid
+5561455857,Fem Roger Andersson,https://www.akessonsbilcenter.se,fem.andersson@akessonsbilcenter.se,Invalid,f.andersson@akessonsbilcenter.se,Invalid,fema@akessonsbilcenter.se,Invalid
+5561455857,Mats Anders Lärfars,https://www.akessonsbilcenter.se,mats.lärfars@akessonsbilcenter.se,Invalid,m.lärfars@akessonsbilcenter.se,Invalid,matsl@akessonsbilcenter.se,Invalid
+5561455857,Johann Hardinger,https://www.akessonsbilcenter.se,johann.hardinger@akessonsbilcenter.se,Invalid,j.hardinger@akessonsbilcenter.se,Invalid,johannh@akessonsbilcenter.se,Invalid
+5566152699,Karin Anneli Elisabet Andersson,https://akesslakt.se,karin.andersson@akesslakt.se,Invalid,k.andersson@akesslakt.se,Invalid,karina@akesslakt.se,Invalid
+5566152699,Elof Åke Andersson,https://akesslakt.se,elof.andersson@akesslakt.se,Invalid,e.andersson@akesslakt.se,Invalid,elofa@akesslakt.se,Invalid
+5566152699,Carl Jonas Jörgensen,https://akesslakt.se,carl.jörgensen@akesslakt.se,Invalid,c.jörgensen@akesslakt.se,Invalid,carlj@akesslakt.se,Invalid
+5565651519,Svens Erik Gert Viktorsson,https://akerosnickeri.com,svens.viktorsson@akerosnickeri.com,Invalid,s.viktorsson@akerosnickeri.com,Invalid,svensv@akerosnickeri.com,Invalid
+5565651519,Svens Lars Håkan Viktorsson,https://akerosnickeri.com,svens.viktorsson@akerosnickeri.com,Invalid,s.viktorsson@akerosnickeri.com,Invalid,svensv@akerosnickeri.com,Invalid

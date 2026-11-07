@@ -1,0 +1,39 @@
+name: Deploy frontend-backend to dealer-pro server
+
+on:
+  push:
+    branches:
+      - main 
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up SSH key and deploy to Dealer server
+        run: |
+          # Set up SSH key
+          mkdir -p ~/.ssh
+          echo "${{ secrets.SSH_PRIVATE_KEY_DEALER }}" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+
+          # Add known hosts
+          ssh-keyscan github.com >> ~/.ssh/known_hosts
+          ssh-keyscan ${{ secrets.SERVER_IP_DEALER }} >> ~/.ssh/known_hosts
+
+          # SSH into the server and pull latest code
+          ssh -o StrictHostKeyChecking=no ${{ secrets.USERNAME_DEALER }}@${{ secrets.SERVER_IP_DEALER }} << 'EOF'
+            export NVM_DIR="$HOME/.nvm"
+            [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+            [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"
+            export PATH="$HOME/.nvm/versions/node/v22.16.0/bin:$PATH"
+            cd /var/www/html/dealer || exit 1
+            git config --add safe.directory /var/www/html/dealer
+            git pull origin main
+            pm2 reload dealer
+            nginx -t & systemctl reload nginx
+            sudo chown -R www-data:www-data /var/www/html/dealer
+          EOF
